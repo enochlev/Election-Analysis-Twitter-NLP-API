@@ -1,0 +1,2 @@
+// For finding tweets that evoke 0 emotions.
+\d+,\d+-\d\d-\d\d \d\d:\d\d:\d\d,(Trump|Biden),0\.0,0\.0,0\.0,0\.0,0\.0\n
